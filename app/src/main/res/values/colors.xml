@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="username_bg_color">#2403F46F</color>
+    <color name="pwd_bg_color">#2403F46F</color>
+    <color name="button_selector_color">#00000000</color>
+</resources>
